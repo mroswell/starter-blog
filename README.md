@@ -14,13 +14,13 @@
 
 ### Managing content with [Forestry](https://forestry.io)
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediately!
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog&engine=hugo)
 
 ### Deploy with [Netlify](https://www.netlify.com)
 
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
+Otherwise, if your goal is deploying a new blog quickly, and manage content manually, use the following button to configure and deploy your new blog on Netlify.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
 
@@ -40,7 +40,7 @@ Read the [Cecil's documentation](https://cecil.app/documentation/).
 
 ## License
 
-Starter blog is a free software distributed under the terms of the MIT license.
+Starter blog is free software distributed under the terms of the MIT license.
 
 © [Arnaud Ligny](https://arnaudligny.fr)
 
